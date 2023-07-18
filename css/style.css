@@ -1399,12 +1399,13 @@ body.offcanvas .fh5co-nav-toggle {
 }
 
 #about .team-thumb .description img {
-    width: 28px;
-    height: 28px;
+    width: 26px;
+    height: 26px;
     opacity: 1;
-	-webkit-transform: scale(1);
-	-ms-transform: scale(1);
-	transform: scale(1);
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    margin-top: -10px;
 }
 
 #about .team-thumb:hover .description {
